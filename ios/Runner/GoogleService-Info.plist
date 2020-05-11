@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>350886684452-s5p095d27ms7kts156us7m2jtnhor14v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.350886684452-s5p095d27ms7kts156us7m2jtnhor14v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtyFzHDbZsVHH-9355iUUnTXAPzpdQ3GQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>350886684452</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kharioki.brewCrew</string>
+	<key>PROJECT_ID</key>
+	<string>brew-crew-app-504e0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>brew-crew-app-504e0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:350886684452:ios:528a29346dea761d3735b1</string>
+	<key>DATABASE_URL</key>
+	<string>https://brew-crew-app-504e0.firebaseio.com</string>
+</dict>
+</plist>
